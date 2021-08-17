@@ -83,6 +83,7 @@ blockquote {
     max-width: 565px;
     border-left: none;
 }
+
 .bg-repeat {
     background: repeat;
 }
@@ -716,7 +717,6 @@ p {
 }
 
 h2 {
-    font-size: 22px;
     line-height: 1.4em;
 }
 
